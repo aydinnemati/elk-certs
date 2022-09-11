@@ -1,4 +1,4 @@
-# renew elasticsearch cluster (elasticsearch - kibana - logstach) certificates with new CA
+# renew elasticsearch 7.17 cluster (elasticsearch - kibana - logstach) certificates with new CA
 
 1. first of all we should generate a new CA:
 - create an instances.yml file for nodes in cluster like below example (**just add elasticsearch data nodes**)
