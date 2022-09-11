@@ -2,6 +2,7 @@
 
 1. first of all we should generate a new CA:
 - create an instances.yml file for nodes in cluster like below example (**just add elasticsearch data nodes**)
+> TIP: dont have valid domains?? add them into /etc/hosts
 ```yaml
 instances:
    - name: **<NODE NAME>**
