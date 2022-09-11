@@ -1,0 +1,1 @@
+# renew elasticsearch cluster (elasticsearch - kibana - logstach) certificates
